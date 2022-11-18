@@ -8,7 +8,7 @@ We have customized the webpage using Bootstrap, and equiped the table with sever
 The aim of this project is to create an interactive webpage that allows readers to parse the data around UFO sightings.
 
 ## Resources 
-- Data Source: data.js (link)
+- Data Source: data.js (https://github.com/MireyNM/UFOs/blob/main/UFO%20Final/static/js/data.js)
 - Software: Visual Studio 1.69.1
 - HTML code: https://github.com/MireyNM/UFOs/blob/main/UFO%20Final/index.html
 - JavaScript code: https://github.com/MireyNM/UFOs/blob/main/UFO%20Final/static/js/app.js
